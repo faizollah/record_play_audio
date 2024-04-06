@@ -4,4 +4,4 @@ Dive deeper into the world of Flutter audio applications with our latest tutoria
 
 Check out [this tutorial](https://youtu.be/32SL_gxH7t4)
 
-<img src="app.png" width="500" height="300">
+<img src="audio.png" width="500" height="300">
